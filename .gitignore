@@ -7,3 +7,19 @@ bin/ZeldaCPP.exe
 bin/INSERT_NAME_PROJECT_HERE.app/
 #(This is to ignore the .app files that
 #mac computers generate)
+
+# Compiled files
+*.o
+*.out
+*.exe
+
+# Build folders
+/build
+/bin
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
