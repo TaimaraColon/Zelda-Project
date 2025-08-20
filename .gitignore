@@ -1,12 +1,9 @@
-obj
-bin/data/images/generated_map.png
-bin/fmod.dll
-bin/ZeldaCPP.exe
-
-#For any Mac Users:
-bin/INSERT_NAME_PROJECT_HERE.app/
-#(This is to ignore the .app files that
-#mac computers generate)
+/obj/
+/bin/data/images/generated_map.png
+/bin/*.dll
+/bin/*.exe
+/bin/*.so
+/bin/*.app/
 
 # Compiled files
 *.o
@@ -14,8 +11,8 @@ bin/INSERT_NAME_PROJECT_HERE.app/
 *.exe
 
 # Build folders
-/build
-/bin
+/build/
+/bin/
 
 # VS Code settings
 .vscode/
