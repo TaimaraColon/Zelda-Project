@@ -12,8 +12,8 @@ Don't forget that you must also fill out an evaluation form in Moodle to conside
 
 ## Grading
 
-(802227160) (TAIMARA P COLON LOPEZ) (TAIMARA.COLON@UPR.EDU)
-(802-21-1210) (Yael Vélez Reyes) (yael.velez@upr.edu)
+(TAIMARA P COLON LOPEZ) (TAIMARA.COLON@UPR.EDU)
+(Yael Vélez Reyes) (yael.velez@upr.edu)
 
 Any project that doesn't compile will receive a 0.
 
